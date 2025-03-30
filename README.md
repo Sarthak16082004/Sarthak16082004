@@ -26,7 +26,7 @@
 - 🤖 **NLP-based Code Compiler** (Using CodeT5 & Fine-tuning Models)
 
 ### 🚀 Connect with Me
-- 🌍 GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- 🌍 GitHub: https://github.com/Sarthak16082004
 - 💼 LinkedIn:https://www.linkedin.com/in/sarthak-pathak-639717302
 - 📫 Email: sarthakpathak1608@gmail.com
 
